@@ -1,0 +1,2 @@
+<p align="left">Example in CLI:</p>
+<code align="center">node index.js nameOldfile.txt nameNewFile.txt</code>
